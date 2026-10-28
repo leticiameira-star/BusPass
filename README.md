@@ -180,7 +180,7 @@ A estrutura favorece a manutenção do código e a organização das responsabil
 
 - **Front-End:** [github.com/vtvitor/frontend-projeto](https://github.com/vtvitor/frontend-projeto)
 - **Back-End:** [github.com/vtvitor/backend-projeto](https://github.com/vtvitor/backend-projeto)
-- **API hospedada no Render:** [backend-projeto-tkvz.onrender.com/api](https://backend-projeto-tkvz.onrender.com/api)
+
 
 
 ---
